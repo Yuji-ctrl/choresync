@@ -1,6 +1,6 @@
 
   {
-      "name": "家事通知アプリ",
+      "name": "choresync",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
@@ -38,7 +38,6 @@
           "embla-carousel-react": "*",
           "input-otp": "*",
           "lucide-react": "*",
-          "lucide-react@": "*",
           "motion": "*",
           "next-themes": "*",
           "path": "*",
