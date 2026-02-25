@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "choresync-49824-e279b",
     "public": "public",
     "ignore": [
       "firebase.json",
